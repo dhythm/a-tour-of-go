@@ -8,9 +8,3 @@ go run <file>
 go build <file>
 ./<file>
 ```
-
-## Run stand-alone tour
-
-```sh
-go tool tour
-```
