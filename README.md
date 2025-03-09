@@ -8,3 +8,10 @@ go run <file>
 go build <file>
 ./<file>
 ```
+
+## Import external packages
+
+```sh
+go mod init 047_exercise-slices.go
+go mod tidy
+```
