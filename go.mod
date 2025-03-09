@@ -1,4 +1,4 @@
-module 047_exercise-slices.go
+module src
 
 go 1.24.0
 
